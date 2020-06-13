@@ -1,6 +1,6 @@
 ## CLASS
-> A class is a Blueprint
+>  A class is a Blueprint
 
-**A class is composed of fields called Instance Variables. _Instance Variables_ are what an object understands**
+** A class is composed of fields called Instance Variables. _Instance Variables_ are what an object understands **
 
 ** _Functions_ within a class are called Methods. _Methods_ are the object's actions **
