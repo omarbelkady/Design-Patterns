@@ -1,0 +1,24 @@
+```
+class Animal
+{
+    //All fields must be private
+    private String name;
+    private double height;
+    private int weight;
+    
+    public void setName(String newName)
+    {
+        name = newName;
+    }
+}
+
+class Dog extends Animal
+{
+    public void digHole()
+    {
+        System.out.println("Woof Woof I am digging a hole.");
+    }
+
+}
+```
+
